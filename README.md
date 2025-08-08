@@ -12,7 +12,7 @@ This repository provides a set of notebooks to invert electromagnetic data acqui
 
 ### Step 1: `Pip` install
 
-`pip install simpeg pandas libaarhusxyz`
+`pip install simpeg pandas libaarhusxyz dill`
 
 ### Step 2: Use a specific branch of simpeg
 
